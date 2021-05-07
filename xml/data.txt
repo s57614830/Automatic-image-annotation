@@ -1,0 +1,3 @@
+C0-9.jpg 380 97 496 462 person
+backC6-1.jpg 382 188 456 357 person
+backC6-1.jpg 652 207 691 348 person
